@@ -1,0 +1,17 @@
+{
+  "name": "email-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@kintone/kintone-js-sdk": "^0.7.8",
+    "blastengine": "^1.7.0",
+    "dotenv": "^16.0.3"
+  }
+}
